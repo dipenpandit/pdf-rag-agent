@@ -20,7 +20,7 @@ A simple RAG agent that searches through pdf to generate answers.
 
 
 ## Run deployed app
-Link: https://myntra-search.streamlit.app/
+Link: https://pdf-rag-agent.streamlit.app/
 
 ## Live Demo
 Here’s a quick look at how it works:
@@ -31,8 +31,8 @@ Here’s a quick look at how it works:
 
 1. Clone repository:
    ```bash
-   git clone 'https://github.com/dipenpandit/repo'
-   cd repo
+   git clone 'https://github.com/dipenpandit/pdf-rag-agent'
+   cd pdf-rag-agent
    ```
 
 2. Set up virtual environment:
