@@ -31,8 +31,8 @@ Here’s a quick look at how it works:
 
 1. Clone repository:
    ```bash
-   git clone 'https://github.com/dipenpandit/repo'
-   cd repo
+   git clone 'https://github.com/dipenpandit/pdf-rag-agent'
+   cd pdf-rag-agent
    ```
 
 2. Set up virtual environment:
@@ -56,5 +56,5 @@ Here’s a quick look at how it works:
 
 3. Run the streamlit app:
     ```bash
-    streamlit run app.py
+    streamlit run main.py
     ```
