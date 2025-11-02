@@ -56,5 +56,5 @@ Here’s a quick look at how it works:
 
 3. Run the streamlit app:
     ```bash
-    streamlit run app.py
+    streamlit run main.py
     ```
